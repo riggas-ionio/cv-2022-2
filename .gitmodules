@@ -1,3 +1,6 @@
 [submodule "_2pdf"]
 	path = _2pdf
-	url = https://github.com/mrzool/cv-boilerplate
+	url = https://github.com/riggas-ionio/cv-boilerplate/
+[submodule "cv-boilerplate"]
+	path = cv-boilerplate
+	url = https://github.com/riggas-ionio/cv-boilerplate/
